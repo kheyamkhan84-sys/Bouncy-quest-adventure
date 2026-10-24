@@ -1,0 +1,6 @@
+{
+  "name": "Bouncy World Adventure",
+  "description": "An epic 2D physics platformer featuring the red bouncing ball across 50 worlds and 1,000 playable levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
